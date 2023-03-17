@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #898784;
+}
+
+*{
+	font-color: #000000;
+	font-size: 12pt;
+	font-family: Arial,Helvetica;
+}
+
+h1{
+	font-size: 160%;
+	color: #020767;
+	text-align: center;
+}
+
+h2{
+	font-size: 120%;
+	color: #020767;
+	text-align: center;
+}
+
+article{
+	background-color: #ffffff;
+	width: 75%;
+	padding: 1em;
+	align-content: center;
+	margin: auto;
+}
+
+footer{
+	text-align: center;
+	font-color: #000000;
+	background-color: #020767;
+	font-size: 100%;
+	font: italic;
+	font-color: #020767;
+}
+
+nav{
+	justify-content: space-evenly;
+	display: inline;
+	background-color: #020767;
+	font-size: 100%;
+	padding: 1.25%;
+	margin: auto;
+}
+
+a: link {
+	color: #020767;
+}
+
+a: visited {
+	color: #020767;
+}
+
+a: hover {
+	color: #ffffff;
+}
+
+a: active {
+	color: #800808;
+}
