@@ -1,0 +1,51 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="cabinets.css">
+
+
+
+  </head>
+<body>
+ <h1>custom cabinets, inc</h1>
+ <body>
+<nav>
+    <a href="index.html">home page</a>
+    <a href="kitchens.html">kitchens</a>
+    <a href="bathrooms.html">bathrooms</a>
+    <a href="utility.html">utility</a>
+    <a href="hardware.html">hardware</a>
+    <a href="contact.html">contact</a>
+</nav><br><br><br>
+<article>
+<h2>what do we do?</h2>
+<p><img src="kitchens1.jpg" alt="custom kitchen cabinets" class="left">Welcome to Custom Cabinets, Inc. where we specialize in creating a beautifully created space using<br>
+   custom cabinetry designs, whether it’s your dream kitchen or bathroom, an organized utility room, or<br>
+    your “Man Cave” or “She Shed” – we have the cabinetry and design know-how to make your dream<br>
+     come to fruition.  We are an authorized dealer of Craft-Maid cabinetry located in Reading, PA.<br>
+  “<blockquote>Success</blockquote> is where preparation and opportunity meet.” – Bobby Unser<br>
+  Having your floor plan measurements (including windows, entryways, appliance locations, and ceiling<br>
+   height), as well as your door style preference will help us to quickly complete your dream kitchen, bath,<br>
+    utility, or garage remodel.  A little advanced preparation can save you a lot of time and money in<br> the long run with your remodel project.<br>
+    <ul>one on one kitchen design consultations</ul>
+    <ul>realistic 3d renderings</ul>
+    <ul>detailed quote with custom SKUs available</ul>
+  Custom Cabinets, Inc.<br>
+  2314 Cherry Lane<br>
+  Reading, PA  19604<br>
+  Ph. 610-720-9963<br>
+  webmaster@customcabinets.com
+  <img src="bathrooms1.jpg" alt="customs bathrooms cabinets" class="right">
+  </p>
+</article>
+</body>
+
+<footer>last update 3/20/2023<br>Olivier Magloire, br806623@gmail.com</footer>
+
+
+
+
+
+
+
+
+</html>
